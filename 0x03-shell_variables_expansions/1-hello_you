@@ -1,2 +1,2 @@
 #!/bin/bash
-su | echo "hello user"
+echo "hello" whoami
