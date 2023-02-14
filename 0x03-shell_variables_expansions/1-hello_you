@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello | read USR
+echo "hello $USER"
